@@ -1,5 +1,5 @@
 Cuenta para cosas de clase y eso
-La cuenta principal es (@MarcZX100)[https://github.com/marczx100]
+La cuenta principal es [@MarcZX100](https://github.com/marczx100)
 
 <!---
 marcjaengarrido/marcjaengarrido is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
